@@ -1,0 +1,25 @@
+{
+  "mice": [
+    {
+      "id": 1,
+      "name": "Squeaky",
+      "age": 1,
+      "color": "gray",
+      "breed": "Fancy Mouse"
+    },
+    {
+      "id": 2,
+      "name": "Nibbles",
+      "age": 1,
+      "color": "brown",
+      "breed": "Long-haired Mouse"
+    },
+    {
+      "id": 3,
+      "name": "Whiskers Jr.",
+      "age": 2,
+      "color": "white",
+      "breed": "Albino Mouse"
+    }
+  ]
+}

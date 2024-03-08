@@ -1,0 +1,25 @@
+{
+  "cats": [
+    {
+      "id": 1,
+      "name": "Whiskers",
+      "age": 3,
+      "color": "gray",
+      "breed": "Domestic Shorthair"
+    },
+    {
+      "id": 2,
+      "name": "Fluffy",
+      "age": 5,
+      "color": "white",
+      "breed": "Persian"
+    },
+    {
+      "id": 3,
+      "name": "Mittens",
+      "age": 2,
+      "color": "black and white",
+      "breed": "Maine Coon"
+    }
+  ]
+}
